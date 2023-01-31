@@ -1,2 +1,2 @@
-Hi, i am Chriss, or Wufftonsson/Wuffie. 
-I am interested in learning python, and also learning everything cyber security related. 
+Hi, i am Chrisse.
+I am interested in learning python and Java, and also learning everything cyber security related. 
